@@ -5,6 +5,9 @@
 ### Automated Multimodal Video-to-Audio Synchronization Pipeline
 
 <img src="demo_image.png" width="800" />
+<a href="INSERT_YOUR_VIDEO_LINK_HERE">
+  <img src="https://github.com/user-attachments/assets/placeholder-image-link" alt="Watch Demo" width="800" />
+</a>
 
 <br />
 
