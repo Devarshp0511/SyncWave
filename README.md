@@ -37,7 +37,7 @@
 | **Frontend** | Next.js 14 (App Router), Tailwind CSS, Framer Motion |
 | **Backend** | Python 3.9+, FastAPI, Uvicorn |
 | **AI Model** | Google Gemini 1.5 Flash (Generative AI SDK) |
-| **Data Source** | Spotipy (Spotify Web API) |
+| **Data Source** | Spotify (Spotify Web API) |
 | **Media Engine** | FFmpeg, Docker |
 
 ---
