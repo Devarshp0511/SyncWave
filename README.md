@@ -4,9 +4,8 @@
 
 ### Automated Multimodal Video-to-Audio Synchronization Pipeline
 
-<img src="demo_image.png" width="800" />
-<a href="(https://drive.google.com/file/d/1gT_UIeW19nnnR2wGeJS9CrsMJt6O5Qrw/view?usp=sharing)">
-  <img src="https://github.com/user-attachments/assets/placeholder-image-link" alt="Watch Demo" width="800" />
+<a href="https://drive.google.com/file/d/1gT_UIeW19nnnR2wGeJS9CrsMJt6O5Qrw/view?usp=sharing" target="_blank">
+  <img src="demo_image.png" alt="Watch SyncWave Demo" width="800" />
 </a>
 
 <br />
