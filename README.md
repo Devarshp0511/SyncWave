@@ -41,3 +41,44 @@
 ```bash
 git clone [https://github.com/Devarshp0511/SyncWave.git](https://github.com/Devarshp0511/SyncWave.git)
 cd SyncWave
+```
+### 2. Backend Configuration
+Navigate to the backend directory to set up the Python environment.
+
+```bash
+cd backend
+python -m venv venv
+
+# Activate Virtual Environment
+# Windows: venv\Scripts\activate
+# Mac/Linux: source venv/bin/activate
+
+pip install -r requirements.txt
+```
+Environment Variables: Create a .env file in the backend/ root directory:
+```Code snippet
+GOOGLE_API_KEY=your_gemini_key
+SPOTIPY_CLIENT_ID=your_spotify_id
+SPOTIPY_CLIENT_SECRET=your_spotify_secret
+```
+Start Server:
+```bash
+uvicorn main:app --reload
+```
+### 3. Frontend Configuration
+Open a new terminal and navigate to the frontend directory.
+
+```bash
+cd ../frontend
+npm install
+```
+Environment Variables: Create a .env.local file in the frontend/ root directory:
+```Code snippet
+NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
+```
+Start Client:
+```bash
+npm run dev
+```
+Client runs at http://localhost:3000
+
