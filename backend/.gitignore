@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Next.js build files
+.next/
+out/
+build/
+dist/
+
+# Environment Variables (NEVER upload these)
+.env
+.env.local
+
+# System files
+.DS_Store
+
+# Media files (Don't upload test videos)
+*.mp4
+*.mov
