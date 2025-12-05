@@ -6,8 +6,6 @@
 
 <img src="demo_image.png" width="800" />
 
-*(Replace the link above with your actual screenshot URL)*
-
 <br />
 
 **SyncWave** is a full-stack engine designed to automate audio curation for video content. By leveraging **Computer Vision** and **Large Language Models**, the system extracts semantic context from raw video inputs and maps them to mathematically relevant audio tracks via the Spotify API.
