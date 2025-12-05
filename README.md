@@ -5,9 +5,14 @@
 ### Automated Multimodal Video-to-Audio Synchronization Pipeline
 
 <a href="https://drive.google.com/file/d/1gT_UIeW19nnnR2wGeJS9CrsMJt6O5Qrw/view?usp=sharing" target="_blank">
-  <img src="demo_image.png" alt="Watch SyncWave Demo" width="800" />
+  <img src="demo_image.png" alt="SyncWave Dashboard" width="800" />
 </a>
 
+<a href="https://drive.google.com/file/d/1gT_UIeW19nnnR2wGeJS9CrsMJt6O5Qrw/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/▶_-Watch_Demo_Video-red?style=for-the-badge" height="40" alt="Watch Demo Video" />
+</a>
+
+<br />
 <br />
 
 **SyncWave** is a full-stack engine designed to automate audio curation for video content. By leveraging **Computer Vision** and **Large Language Models**, the system extracts semantic context from raw video inputs and maps them to mathematically relevant audio tracks via the Spotify API.
